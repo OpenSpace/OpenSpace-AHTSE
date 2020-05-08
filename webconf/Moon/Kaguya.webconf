@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 1474560 737280 1 1
+PageSize 360 360 1 1
+DataFile /data/AHTSE/Moon/Kaguya/Kaguya.pjg
+IndexFile /data/AHTSE/Moon/Kaguya/Kaguya.idx
+SkippedLevels 1

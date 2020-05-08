@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 655360 327680 1 1
+PageSize 512 512 1 1
+DataFile /var/www/html/Moon/Apollo15_MetricCam/Apollo15_MetricCam_Gray.ppg
+IndexFile /var/www/html/Moon/Apollo15_MetricCam/Apollo15_MetricCam_Gray.idx
+SkippedLevels 1

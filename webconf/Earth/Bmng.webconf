@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 86400 43200 36 3
+PageSize 240 240 1 3
+DataFile /data/AHTSE/Earth/Bmng/world.2004.pjg
+IndexFile /data/AHTSE/Earth/Bmng/world.2004.idx
+SkippedLevels 1

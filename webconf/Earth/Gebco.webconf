@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 43200 21600 1 1
+PageSize 360 360 1 1
+DataFile /data/AHTSE/Earth/Gebco/Gebco.ppg
+IndexFile /data/AHTSE/Earth/Gebco/Gebco.idx
+SkippedLevels 1

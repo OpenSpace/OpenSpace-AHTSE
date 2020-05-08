@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 4194304 2097152 1 2
+PageSize 256 256 1 2
+DataFile /data/AMNH/raid/OnMars/CTX.ppg
+IndexFile /data/AMNH/raid/OnMars/CTX.idx
+SkippedLevels 1

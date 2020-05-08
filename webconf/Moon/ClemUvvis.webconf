@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 92160 46080 1 1
+PageSize 360 360 1 1
+DataFile /data/AHTSE/Moon/ClemUvvis/ClemUvvis.pjg
+IndexFile /data/AHTSE/Moon/ClemUvvis/ClemUvvis.idx
+SkippedLevels 1

@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 61324 30662 1 1
+PageSize 256 256 1 1
+DataFile /data/AHTSE/Mercury/MessengerMdis/MessengerMdis.pjg
+IndexFile /data/AHTSE/Mercury/MessengerMdis/MessengerMdis.idx
+SkippedLevels 1

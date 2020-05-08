@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 23040 11520 1 1
+PageSize 360 360 1 1
+DataFile /data/AHTSE/Mercury/MessengerDEM/Mercury_DEM.ppg
+IndexFile /data/AHTSE/Mercury/MessengerDEM/Mercury_DEM.idx
+SkippedLevels 1
