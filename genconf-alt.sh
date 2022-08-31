@@ -10,9 +10,11 @@ scriptpath=$(realpath $0)
 
 target_dir=${1:-}
 source_dir=${2:-}
+conf_dir=${3:-}
 
 test -z "${target_dir}" && target_dir=/var/www/html
 test -z "${source_dir}" && source_dir=$(dirname $scriptpath)/webconf
+test -z "${conf_dir}" && conf_dir=/usr/lib64/httpd/webconf
 
 warning "Searching in \"${source_dir}\""
 
@@ -32,6 +34,7 @@ for filepath in $(find $source_dir -type f -iname \*.webconf) ; do
 	filepath_new=${pathname_new}/$filename
 	filepath_dat=${pathname_new}/$filename_dat
 	filepath_idx=${pathname_new}/$filename_idx
+	filepath_conf=${conf_dir}/$filename
 
 	if test -f $filepath_dat ; then
 		warning "Data file found: ${filepath_dat}"
@@ -48,8 +51,9 @@ for filepath in $(find $source_dir -type f -iname \*.webconf) ; do
 	fi
 
 	# update webconf for local paths
-	sed -i "s,DataFile.*.,DataFile ${filepath_dat},g"   $filepath
-	sed -i "s,IndexFile.*.,IndexFile ${filepath_idx},g" $filepath
+	cp $filepath $filepath_conf
+	sed -i "s,DataFile.*.,DataFile ${filepath_dat},g"   $filepath_conf
+	sed -i "s,IndexFile.*.,IndexFile ${filepath_idx},g" $filepath_conf
 
 	# create Apache httpd Directory stanza
 	sed 's/^\t//' << EOF >> ahtse.conf
@@ -57,7 +61,7 @@ for filepath in $(find $source_dir -type f -iname \*.webconf) ; do
 	<Directory ${pathname_new}>
 	   Options -Indexes -FollowSymLinks -ExecCGI
 	   MRF_RegExp */tile/.*
-	   MRF_ConfigurationFile $filepath_new
+	   MRF_ConfigurationFile $filepath_conf
 	</Directory>
 EOF
 
