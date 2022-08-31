@@ -34,7 +34,7 @@ for filepath in $(find $source_dir -type f -iname \*.webconf) ; do
 	filepath_new=${pathname_new}/$filename
 	filepath_dat=${pathname_new}/$filename_dat
 	filepath_idx=${pathname_new}/$filename_idx
-	filepath_conf=${conf_dir}/$filename
+	filepath_conf=${pathname/${source_dir}/${conf_dir}}/${filename}
 
 	if test -f $filepath_dat ; then
 		warning "Data file found: ${filepath_dat}"
