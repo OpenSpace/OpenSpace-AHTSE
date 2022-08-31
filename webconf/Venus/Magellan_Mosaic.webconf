@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 506928 230948 1 1
+PageSize 512 512 1 1
+DataFile /mnt/e/os/mrf/Venus/Magellan_Mosaic/Venus_Magellan_LeftLook_mosaic_global_75m.ppg
+IndexFile /mnt/e/os/mrf/Venus/Magellan_Mosaic/Venus_Magellan_LeftLook_mosaic_global_75m.idx
+SkippedLevels 1

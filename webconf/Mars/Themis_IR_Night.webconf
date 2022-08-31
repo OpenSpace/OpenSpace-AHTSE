@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 213388 71130 1 1
+PageSize 256 256 1 1
+DataFile /data/AHTSE/Mars/Themis_IR_Night/Themis_IR_Night.pjg
+IndexFile /data/AHTSE/Mars/Themis_IR_Night/Themis_IR_Night.idx
+SkippedLevels 1

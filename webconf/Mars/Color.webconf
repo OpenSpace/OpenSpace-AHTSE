@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 92160 46080 1 1
+PageSize 512 512 1 1
+DataFile /mnt/wms-data/data/Mars/Color/Color.ppg
+IndexFile /mnt/wms-data/data/Mars/Color/Color.idx
+SkippedLevels 1

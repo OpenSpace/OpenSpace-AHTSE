@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 8192 4096 1 1
+PageSize 256 256 1 1
+DataFile /mnt/e/os/mrf/Venus/Magellan_DEM/Venus_Magellan_Topography_Global_4641m_v02.ppg
+IndexFile /mnt/e/os/mrf/Venus/Magellan_DEM/Venus_Magellan_Topography_Global_4641m_v02.idx
+SkippedLevels 1

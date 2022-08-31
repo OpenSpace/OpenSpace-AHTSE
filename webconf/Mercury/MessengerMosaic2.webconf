@@ -1,6 +1,0 @@
-RegExp .*/tile/.*
-Size 23040 11520 1 3
-PageSize 360 360 1 3
-DataFile /data/AHTSE/Mercury/MessengerMosaic2/Mercury_MOSAIC2.ppg
-IndexFile /data/AHTSE/Mercury/MessengerMosaic2/Mercury_MOSAIC2.idx
-SkippedLevels 1

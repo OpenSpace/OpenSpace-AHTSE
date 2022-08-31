@@ -1,6 +1,0 @@
-RegExp .*/tile/.*
-Size 92160 46080 1 1
-PageSize 512 512 1 1
-DataFile /data/AHTSE/Mars/mainColV007/mainColV007.ppg
-IndexFile /data/AHTSE/Mars/mainColV007/mainColV007.idx
-SkippedLevels 1

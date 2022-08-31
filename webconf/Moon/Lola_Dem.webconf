@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 92160 46080 1 1
+PageSize 360 360 1 1
+DataFile /mnt/e/os/mrf/Moon/Lola_Dem/Lola_Dem.ppg
+IndexFile /mnt/e/os/mrf/Moon/Lola_Dem/Lola_Dem.idx
+SkippedLevels 1

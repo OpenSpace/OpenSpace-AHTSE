@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 24888 12444 1 1
+PageSize 512 512 1 1
+DataFile /mnt/wms-data/data/Pluto/Mosaic/Mosaic.ppg
+IndexFile /mnt/wms-data/data/Pluto/Mosaic/Mosaic.idx
+SkippedLevels 0

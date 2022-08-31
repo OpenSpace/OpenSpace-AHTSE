@@ -1,6 +1,0 @@
-RegExp .*/tile/.*
-Size 46080 23040 1 1
-PageSize 360 360 1 1
-DataFile /data/AHTSE/Mars/MolaElevation/MolaElevation.ppg
-IndexFile /data/AHTSE/Mars/MolaElevation/MolaElevation.idx
-SkippedLevels 1

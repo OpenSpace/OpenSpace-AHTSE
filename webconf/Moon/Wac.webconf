@@ -1,6 +1,6 @@
 RegExp .*/tile/.*
 Size 109164 54582 1 1
 PageSize 256 256 1 1
-DataFile /mnt/e/os/mrf/Moon/Wac/Wac.pjg
-IndexFile /mnt/e/os/mrf/Moon/Wac/Wac.idx
+DataFile /mnt/e/os/mrf/Moon/WAC/WAC.pjg
+IndexFile /mnt/e/os/mrf/Moon/WAC/WAC.idx
 SkippedLevels 1

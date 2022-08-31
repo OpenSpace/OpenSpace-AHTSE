@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 213390 106695 1 1
+PageSize 256 256 1 1
+DataFile /data/AHTSE/Mars/Themis_IR_Day/Themis_IR_Day.pjg
+IndexFile /data/AHTSE/Mars/Themis_IR_Day/Themis_IR_Day.idx
+SkippedLevels 1

@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 106694 53347 1 1
+PageSize 512 512 1 1
+DataFile /data/AHTSE/Mars/Mola_HRSC/Mola_HRSC.ppg
+IndexFile /data/AHTSE/Mars/Mola_HRSC/Mola_HRSC.idx
+SkippedLevels 1

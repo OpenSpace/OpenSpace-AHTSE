@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 4040 2020 1 1
+PageSize 256 256 1 1
+DataFile /mnt/wms-data/data/Titan/ISS_P19658_Mosaic_Global_4km/Titan_ISS_P19658_Mosaic_Global_4km.ppg
+IndexFile /mnt/wms-data/data/Titan/ISS_P19658_Mosaic_Global_4km/Titan_ISS_P19658_Mosaic_Global_4km.idx
+SkippedLevels 0

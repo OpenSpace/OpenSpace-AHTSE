@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 46080 23040 1 1
+PageSize 256 256 1 1
+DataFile /mnt/wms-data/data/Mars/Mola_Elevation/Mola_Elevation.ppg
+IndexFile /mnt/wms-data/data/Mars/Mola_Elevation/Mola_Elevation.idx
+SkippedLevels 2

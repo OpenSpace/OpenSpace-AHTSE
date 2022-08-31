@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 15840 7920 1 3
+PageSize 512 512 1 3
+DataFile /mnt/wms-data/data/Enceladus/Cassini_ISS_Global_Mosaic_100m_HPF/Enceladus_Cassini_ISS_Global_Mosaic_100m_HPF.ppg
+IndexFile /mnt/wms-data/data/Enceladus/Cassini_ISS_Global_Mosaic_100m_HPF/Enceladus_Cassini_ISS_Global_Mosaic_100m_HPF.idx
+SkippedLevels 0
