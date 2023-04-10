@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 184320 92160 1 1
+PageSize 512 512 1 1
+DataFile /home/openspace/MAPS/Moon/Lunar_LO_MR_Mosaic_Global_59m/Lunar_LO_MR_Mosaic_Global_59m.ppg
+IndexFile /home/openspace/MAPS/Moon/Lunar_LO_MR_Mosaic_Global_59m/Lunar_LO_MR_Mosaic_Global_59m.idx
+SkippedLevels 1

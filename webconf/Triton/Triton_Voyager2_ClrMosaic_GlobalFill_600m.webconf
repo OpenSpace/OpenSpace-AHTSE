@@ -1,0 +1,7 @@
+RegExp .*/tile/.*
+Size 14138 7069 1 4
+PageSize 512 512 1 4
+DataFile /home/openspace/MAPS/Triton/Triton_Voyager2_ClrMosaic_GlobalFill_600m/Triton_Voyager2_ClrMosaic_GlobalFill_600m.ppg
+IndexFile /home/openspace/MAPS/Triton/Triton_Voyager2_ClrMosaic_GlobalFill_600m/Triton_Voyager2_ClrMosaic_GlobalFill_600m.idx
+SkippedLevels 1
+
