@@ -1,0 +1,6 @@
+RegExp .*/tile/.*
+Size 109164 54582 1 1
+PageSize 360 360 1 1
+DataFile /mnt/wms-data/data/Moon/WAC3/WAC3.ppg
+IndexFile /mnt/wms-data/data/Moon/WAC3/WAC3.idx
+SkippedLevels 1
